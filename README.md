@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**druvanm/druvanm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...<div align="center">
+<div align="center">
 
 # Hi 👋, I'm Druvan M
 
@@ -21,7 +7,7 @@ Here are some ideas to get you started:
 *Aspiring engineer passionate about building smart, connected systems and real-world IoT solutions.*  
 *Open to Embedded Systems / IoT / Python Developer roles.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/druvan-m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/druvanm)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:druvanachar@gmail.com)
 
 </div>
@@ -80,7 +66,7 @@ I'm a final-year ECE student from PES Institute of Technology and Management, Sh
 
 ## 🗂️ Featured Projects
 
-### 🚗 [Vehicle Telemetry Monitoring System](https://github.com/druvan-m)
+### 🚗 [Vehicle Telemetry Monitoring System](https://github.com/druvanm)
 > Cloud-connected real-time vehicle performance monitoring over ESP32 + CAN Bus
 
 Built a telemetry pipeline that streams live vehicle data (speed, RPM, engine temp, fuel level, GPS) from ESP32 over MQTT to a cloud dashboard. Focused on reliable real-time data flow and clean visualization.
@@ -90,7 +76,7 @@ Built a telemetry pipeline that streams live vehicle data (speed, RPM, engine te
 
 ---
 
-### 🐾 [Automated Pet Feeder](https://github.com/druvan-m)
+### 🐾 [Automated Pet Feeder](https://github.com/druvanm)
 > IoT-enabled smart pet feeder with remote scheduling and real-time alerts
 
 Designed an ESP8266-based pet feeder with automated time-based scheduling, remote control through the Blynk app, and buzzer alerts. Also logs feeding history for tracking.
@@ -100,7 +86,7 @@ Designed an ESP8266-based pet feeder with automated time-based scheduling, remot
 
 ---
 
-### ♿ [Smart Wheelchair using Raspberry Pi](https://github.com/druvan-m)
+### ♿ [Smart Wheelchair using Raspberry Pi](https://github.com/druvanm)
 > Voice-controlled wheelchair with ML-based speaker verification for security
 
 Built a Raspberry Pi system that lets an authorized user control a wheelchair using only their voice. Used a machine learning speech recognition model to ensure only the owner's voice triggers navigation commands.
@@ -114,11 +100,11 @@ Built a Raspberry Pi system that lets an authorized user control a wheelchair us
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=druvan-m&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
+![Stats](https://github-readme-stats.vercel.app/api?username=druvanm&theme=aura&hide_border=false&include_all_commits=false&count_private=false)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=druvan-m&theme=aura&hide_border=false)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=druvanm&theme=aura&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=druvan-m&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=druvanm&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
@@ -136,34 +122,33 @@ Built a Raspberry Pi system that lets an authorized user control a wheelchair us
 
 <div align="center">
 
-[![Repos](https://img.shields.io/badge/View%20All%20Repos-GitHub-181717?style=flat-square&logo=github)](https://github.com/druvan-m?tab=repositories)
+[![Repos](https://img.shields.io/badge/View%20All%20Repos-GitHub-181717?style=flat-square&logo=github)](https://github.com/druvanm?tab=repositories)
 
 </div>
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3>🚗 <a href="https://github.com/druvan-m">Vehicle Telemetry System</a></h3>
+      <h3>🚗 <a href="https://github.com/druvanm">Vehicle Telemetry System</a></h3>
       <p>Real-time vehicle monitoring over ESP32, CAN Bus, and MQTT to a cloud dashboard</p>
       <p><strong>Stack:</strong> ESP32 · CAN Bus · MQTT · Embedded C</p>
     </td>
     <td width="50%" align="center">
-      <h3>♿ <a href="https://github.com/druvan-m">Smart Wheelchair</a></h3>
+      <h3>♿ <a href="https://github.com/druvanm">Smart Wheelchair</a></h3>
       <p>Voice-controlled mobility system with ML-based speaker authentication</p>
       <p><strong>Stack:</strong> Raspberry Pi · Python · SpeechRecognition · ML</p>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h3>🐾 <a href="https://github.com/druvan-m">Automated Pet Feeder</a></h3>
+      <h3>🐾 <a href="https://github.com/druvanm">Automated Pet Feeder</a></h3>
       <p>IoT smart feeder with remote scheduling, Blynk app control, and feeding logs</p>
       <p><strong>Stack:</strong> ESP8266 · Servo Motor · Blynk · Arduino IDE</p>
     </td>
     <td width="50%" align="center">
-      <h3>👨‍💻 <a href="https://github.com/druvan-m">All Projects</a></h3>
+      <h3>👨‍💻 <a href="https://github.com/druvanm">All Projects</a></h3>
       <p>Explore more repositories and contributions on GitHub</p>
       <p><strong>View my complete repository collection</strong></p>
     </td>
   </tr>
 </table>
--->
