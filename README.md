@@ -21,7 +21,7 @@ I'm a final-year ECE student from PES Institute of Technology and Management, Sh
 - 🔭 Currently exploring advanced IoT protocols and real-time embedded applications
 - 🛠️ Experienced with ESP32, Raspberry Pi, Arduino, and microcontroller programming in C/C++ and Python
 - 💬 Ask me about Embedded C, MQTT, UART/SPI/I2C protocols, or IoT system design
-- 🎓 CGPA: **8.3** · PES Institute of Technology and Management
+- 🎓 CGPA: **8.4** · PES Institute of Technology and Management
 
 
 
